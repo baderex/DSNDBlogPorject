@@ -18,6 +18,6 @@ https://insights.stackoverflow.com/survey
 Udacity DSND - Blog Post.ipynb: Notebook of the analysis 
 
 ## libraries
-numpy
-pandas
-matplotlib 
+1. numpy
+2. pandas
+3. matplotlib 
