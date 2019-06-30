@@ -10,6 +10,9 @@ In the project our goal is to use the data to answer the following questions:
 2. What is the average IT Experince by country?
 3. What is the most popular development language?
 
+For more details, please visit the following blog post: 
+https://medium.com/@otaibibaderm/the-global-landscape-of-developers-experience-4d6c40399552 
+
 ## Data 
 The data used in this project is Stack Overflow Annual Developer Survey for the year of 2018. The data set can be found in the link below: 
 https://insights.stackoverflow.com/survey 
